@@ -1,0 +1,38 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.navbar {
+	border: 0;
+	border-bottom: 1px solid #404040;
+	border-radius: 0;
+	background-color: #4DDF65;
+	padding-top: 20px;
+}
+
+.navbar-brand {
+	margin-bottom: 20px;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+#ul-list {
+		margin-top: 0;
+		margin-bottom: -1px;
+		overflow: hidden;
+	}
+
+#ul-list > li {
+	background-color: white;
+	text-align: center;
+	border: 1px solid #404040;
+	margin-top: -1px;
+}
+
+#main-content {
+	padding: 0;
+	background-color: #4FDFF5;
+	border: 1px solid black;
+}
